@@ -1,3 +1,5 @@
+//autor Roberto Sequen
+
 #include<iostream>
 #include<stdlib.h>
 #include<fstream>
